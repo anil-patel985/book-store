@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with given credentials and verify the page title.</description>
+   <name>scenario1_Bookstore_Assignment1_DD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7c0d468-4452-4827-82b6-dd90d6c48764</testCaseGuid>
+</TestCaseEntity>

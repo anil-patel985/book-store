@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>StudentForm</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>9c5176eb-fe0c-4274-8c69-a535ca2b04aa</dataFileGUID>
+   <dataSourceUrl>D:\Mit Mistry\MY TRAINING\Automation training by Ankir sir\KATALON Demos\Assignment_Book_store\Book_Store_Assignmnet\Data Files\Student_Form.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Sheet1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
